@@ -1,6 +1,6 @@
 {
   "name": "react-native-as-open-maps",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Easily open maps and show route from current location to destination",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
