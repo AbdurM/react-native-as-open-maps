@@ -2,6 +2,8 @@
 
 Easily open maps and show route from current location to destination
 
+![alt text](https://github.com/AbdurM/react-native-as-open-maps/blob/main/example.gif)
+
 ## Installation
 
 ```sh
