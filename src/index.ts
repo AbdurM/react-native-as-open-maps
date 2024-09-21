@@ -3,7 +3,7 @@ export function openNativeMap(
   latitude: string,
   longitude: string,
   destinationLabel: string
-) {
+): void {
   try {
     const scheme = Platform.select({
       ios: 'maps://0,0?q=',
